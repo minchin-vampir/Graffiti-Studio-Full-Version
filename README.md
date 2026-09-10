@@ -236,3 +236,6 @@ This repository serves as the official landing page for Graffiti Studio. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Graffiti Studio today!**
+
+---
+**Last updated:** 2026-09-10 15:32:06 UTC
